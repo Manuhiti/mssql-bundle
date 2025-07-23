@@ -1,0 +1,22 @@
+{
+    "name": "prone987/mssql-bundle",
+    "type": "symfony-bundle",
+    "description": "Microsoft SQL Server Bundle for Symfony 2",
+    "keywords": ["mssql", "sql server", "driver"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Manuhiti AMIOT",
+            "homepage": "https://github.com/"
+        }
+    ],
+    "require": {
+        "doctrine/common": "~2.2,>=2.2.3"
+    },
+    "autoload": {
+        "psr-0": {
+            "Manuhiti/mssql-bundle": ""
+        }
+    },
+    "target-dir": "Manuhiti/mssql-bundle"
+}
