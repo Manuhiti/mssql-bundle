@@ -18,5 +18,5 @@
             "Realestate\\MssqlBundle": ""
         }
     },
-    "target-dir": "Manuhiti/mssql-bundle"
+    "target-dir": "Realestate/MssqlBundle"
 }
