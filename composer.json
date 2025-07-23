@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Manuhiti/mssql-bundle": ""
+            "Realestate\\MssqlBundle": ""
         }
     },
     "target-dir": "Manuhiti/mssql-bundle"
